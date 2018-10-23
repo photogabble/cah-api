@@ -13,11 +13,11 @@ Essentially a REST service for supplying cards for a game of CaH.
 
 ## Todo
 
-+ [x] Seed Official Cards
+* [x] Seed Official Cards
 * [x] Add License information
 * [ ] Setup Unit Tests
 * [ ] Setup Travis-CI
-+ [ ] Complete todo list...
+* [ ] Complete todo list...
 
 ## License
 
